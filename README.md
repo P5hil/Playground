@@ -1,2 +1,2 @@
 # Playground
-Playing with code - can include anything
+Playing with code and git - can include anything
